@@ -17,4 +17,4 @@ def solution(l):
 
     return count
 
-print(solution2([1, 2, 3, 4, 5, 6]))
+print(solution([1, 2, 3, 4, 5, 6]))
